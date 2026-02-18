@@ -6,8 +6,15 @@
     <description>Recent content on My Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 13:44:05 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 14:24:41 +0530</lastBuildDate>
     <atom:link href="http://Radhika328.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The nature of information problem</title>
+      <link>http://Radhika328.github.io/posts/third-post/</link>
+      <pubDate>Wed, 18 Feb 2026 14:24:41 +0530</pubDate>
+      <guid>http://Radhika328.github.io/posts/third-post/</guid>
+      <description>&lt;p&gt;Today in class, I learned how images are made using pixels and RGB values.&lt;br&gt;&#xA;I understood how to transform images by blurring and changing them horizontally.&lt;br&gt;&#xA;These activities helped me see how computers process and edit pictures.&lt;br&gt;&#xA;The lesson was interesting and improved my understanding of digital images.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Class Reflection</title>
       <link>http://Radhika328.github.io/posts/second-post/</link>
@@ -20,7 +27,7 @@
       <link>http://Radhika328.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 04 Feb 2026 13:47:34 +0530</pubDate>
       <guid>http://Radhika328.github.io/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My first Post&lt;/h1&gt;&#xA;&lt;p&gt;Zettlr is a helpful tool for writing notes and organizing ideas. I used Zettlr to write my reflections and learning notes. It is easy to use and saves my work in Markdown format, which is useful for creating blogs and websites.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Zettlr is a helpful tool for writing notes and organizing ideas. I used Zettlr to write my reflections and learning notes. It is easy to use and saves my work in Markdown format, which is useful for creating blogs and websites.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
