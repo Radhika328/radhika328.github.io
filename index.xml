@@ -6,8 +6,15 @@
     <description>Recent content on My Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 13:47:34 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 13:44:05 +0530</lastBuildDate>
     <atom:link href="http://Radhika328.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class Reflection</title>
+      <link>http://Radhika328.github.io/posts/second-post/</link>
+      <pubDate>Wed, 18 Feb 2026 13:44:05 +0530</pubDate>
+      <guid>http://Radhika328.github.io/posts/second-post/</guid>
+      <description>&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;p&gt;DIKW MODEL&lt;/p&gt;&#xA;&lt;p&gt;In today’s class, I learned about DIKW, which means Data, Information, Knowledge, and Wisdom.&#xA;Data is simple facts, and information helps us understand those facts. Knowledge teaches us how to use this information in real life. Wisdom helps us make good and correct decisions using what we learn.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://Radhika328.github.io/posts/my-first-post/</link>
