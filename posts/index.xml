@@ -10,10 +10,17 @@
     <atom:link href="http://Radhika328.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The nature of information problem</title>
+      <link>http://Radhika328.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 18 Feb 2026 14:24:41 +0530</pubDate>
+      <guid>http://Radhika328.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;In this unit, I learned about transforming and optimizing images. At first, the topic felt a bit challenging because I had never considered images this way before. Previously, I only viewed images as pictures on my phone, laptop, or social media. I didn’t realize that images can also be described using math and data. This topic helped me see that images are not just pictures; they represent information that can be changed and improved.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The nature of information problem</title>
       <link>http://Radhika328.github.io/posts/third-post/</link>
       <pubDate>Wed, 18 Feb 2026 14:24:41 +0530</pubDate>
       <guid>http://Radhika328.github.io/posts/third-post/</guid>
-      <description>&lt;p&gt;Today in class, I learned how images are made using pixels and RGB values.&lt;br&gt;&#xA;I understood how to transform images by blurring and changing them horizontally.&lt;br&gt;&#xA;These activities helped me see how computers process and edit pictures.&lt;br&gt;&#xA;The lesson was interesting and improved my understanding of digital images.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In this unit, I learned about transforming and optimizing images. At first, the topic felt a bit challenging because I had never considered images this way before. Previously, I only viewed images as pictures on my phone, laptop, or social media. I didn’t realize that images can also be described using math and data. This topic helped me see that images are not just pictures; they represent information that can be changed and improved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Class Reflection</title>
@@ -21,13 +28,6 @@
       <pubDate>Wed, 18 Feb 2026 13:44:05 +0530</pubDate>
       <guid>http://Radhika328.github.io/posts/second-post/</guid>
       <description>&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;p&gt;DIKW MODEL&lt;/p&gt;&#xA;&lt;p&gt;In today’s class, I learned about DIKW, which means Data, Information, Knowledge, and Wisdom.&#xA;Data is simple facts, and information helps us understand those facts. Knowledge teaches us how to use this information in real life. Wisdom helps us make good and correct decisions using what we learn.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>**my first post**</title>
-      <link>http://Radhika328.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 04 Feb 2026 13:47:34 +0530</pubDate>
-      <guid>http://Radhika328.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;In the first unit of the course, I learned about the DIKW model, which stands for Data, Information, Knowledge, and Wisdom. Before taking this class, I had heard the words data and information many times, but I never clearly understood the difference between them. Through this unit, I learned that data refers to raw facts or numbers that do not have meaning by themselves. When this data is organized or given context, it becomes information.At first, the concept was new to me because I usually thought that data and information meant the same thing. However, during the class discussion, I realized that data is just raw numbers or facts without meaning. When data is organized or processed, it becomes information.With that information we learn something then it becomes knowledge . Finally, wisdom is when we use that knowledge to make good decisions.One thing I found interesting was how this model connects to everyday life.&#xA;For example, a list of temperatures is data. When we organize it to see weather patterns, it becomes information. Seeing the pattern gives knowledge, and taking an umbrella because of it shows wisdom. This example helped me understand the idea more clearly. At first, I found it a little hard to remember the four levels, but drawing a pyramid and thinking about easy real-life examples made it easier.&#xA;Overall, learning the DIKW model helped me see how simple data can turn into information and then knowledge. It showed me how basic facts can be useful in everyday life.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
