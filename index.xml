@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Hugo Site</title>
-    <link>http://Radhika328.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Feb 2026 14:24:41 +0530</lastBuildDate>
-    <atom:link href="http://Radhika328.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>**Exploring Information and Learning Through Experience**</title>
-      <link>http://Radhika328.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 18 Feb 2026 14:24:41 +0530</pubDate>
-      <guid>http://Radhika328.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;In the first unit, I learned about “What is information” studying this topic was new for me. In the beginning, I never thought about the difference between data and information. Because I used both terms in the same way. This class made me realize how often I come across data in my daily life without really thinking about how it turns into something meaningful. &lt;/p&gt;&#xA;&lt;p&gt;Then we learned about the DIKW model. It helped me understand how data becomes knowledge and finally into wisdom. First, it is difficult to make a difference in this topic because everything is related to each other and there is a very small difference in this topic. For example, we check weather updates on our phone. Then, seeing temperature numbers, we understand the weather pattern. Learning from it and deciding what to do is knowledge. Deciding where we have to carry an umbrella or not is wisdom. This connection made the concept more real and easier to remember.&lt;/p&gt;</description>
     </item>
     <item>
       <title>**Images as Information**</title>
-      <link>http://Radhika328.github.io/posts/third-post/</link>
+      <link>http://localhost:1313/posts/third-post/</link>
       <pubDate>Wed, 18 Feb 2026 14:24:41 +0530</pubDate>
-      <guid>http://Radhika328.github.io/posts/third-post/</guid>
+      <guid>http://localhost:1313/posts/third-post/</guid>
       <description>&lt;p&gt;In this unit, I learned that images can also be seen with a perspective of data and math. I learned how to transform and optimize images by seeing them as changeable information. For me photos were stuff which I can store them as memory, but this unit changed my perspective. I started taking images in a more technical way, and I started describing them using math and data.&lt;/p&gt;&#xA;&lt;p&gt;This unit made me realize that the image is made up of thousands of tiny units called pixels. This idea made me connect the topic to things I already use, like photo editing apps. I never thought about how changing brightness or color actually works, but now I understand that it is happening by changing pixel values. I also related the idea of colors to what I had learned earlier in painting, where colors mix to form new ones. This connection made it easier for me to understand.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Class Reflection</title>
-      <link>http://Radhika328.github.io/posts/second-post/</link>
+      <title>Learning from Failure</title>
+      <link>http://localhost:1313/posts/second-post/</link>
       <pubDate>Wed, 18 Feb 2026 13:44:05 +0530</pubDate>
-      <guid>http://Radhika328.github.io/posts/second-post/</guid>
-      <description>&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;p&gt;DIKW MODEL&lt;/p&gt;&#xA;&lt;p&gt;In today’s class, I learned about DIKW, which means Data, Information, Knowledge, and Wisdom.&#xA;Data is simple facts, and information helps us understand those facts. Knowledge teaches us how to use this information in real life. Wisdom helps us make good and correct decisions using what we learn.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this unit, I learned how failure can teach important lessons. In society,failure is seen as something negative. They think that failure means a person who is not capable or not successful. As students, we are all  afraid of failure and whenever we make any mistakes we never expect it because of shame. But this unit helped me to understand that failure is a natural part of learning. It gives us a chance to learn, improve and learn from our mistakes.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://Radhika328.github.io/posts/20260312225118/</link>
+      <link>http://localhost:1313/posts/20260312225118/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://Radhika328.github.io/posts/20260312225118/</guid>
+      <guid>http://localhost:1313/posts/20260312225118/</guid>
       <description></description>
     </item>
   </channel>
