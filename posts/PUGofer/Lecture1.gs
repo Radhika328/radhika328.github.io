@@ -14,3 +14,12 @@ radhu.f=f.3 + 3.3
 ra.x.y=x + y
 manya.x.y= x + 3.3
 rohit.x. y= 3 + 6
+
+
+xs -*- [] = xs
+xs -*- (y:ys) = removeFirst xs y -*- ys
+
+removeFirst [] y = []
+removeFirst (x:xs) y =
+  if x == y then xs
+  else x : removeFirst xs y
