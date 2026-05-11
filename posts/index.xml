@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 14:24:41 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 15:44:23 +0530</lastBuildDate>
     <atom:link href="http://Radhika328.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UNIT- 4</title>
+      <link>http://Radhika328.github.io/posts/my-fourth-post/</link>
+      <pubDate>Mon, 11 May 2026 15:44:23 +0530</pubDate>
+      <guid>http://Radhika328.github.io/posts/my-fourth-post/</guid>
+      <description>&lt;p&gt;In this unit, learning Metabase and Chatbot was new and interesting experience for me. At the beginning I did not have much knowledge about data visualization or chatbot design. I thought that to create a chatbot and dashboard we need advanced coding skills. Also I was a little bit nervous because I never used those tools before. I started exploring these tools by watching tutorials and asking my friends how we can use these tools.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Exploring Information and Learning Through Experience</title>
       <link>http://Radhika328.github.io/posts/my-first-post/</link>
